@@ -4,6 +4,13 @@
     "type": "library",
     "license": "MIT",
     "homepage": "https://github.com/chr15k/php-spelling",
+    "keywords": [
+        "chr15k",
+        "string",
+        "helpers",
+        "php",
+        "spelling"
+    ],
     "authors": [
         {
             "name": "Chris Keller",
