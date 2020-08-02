@@ -1,9 +1,9 @@
 {
-    "name": "chr15k/php-grammar",
-    "description": "PHP grammar helpers package",
+    "name": "chr15k/php-spelling",
+    "description": "PHP spelling helpers package",
     "type": "library",
     "license": "MIT",
-    "homepage": "https://github.com/chr15k/php-grammar",
+    "homepage": "https://github.com/chr15k/php-spelling",
     "authors": [
         {
             "name": "Chris Keller",
