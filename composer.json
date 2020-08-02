@@ -1,0 +1,35 @@
+{
+    "name": "chr15k/php-grammar",
+    "description": "PHP grammar helpers package",
+    "type": "library",
+    "license": "MIT",
+    "homepage": "https://github.com/chr15k/php-grammar",
+    "authors": [
+        {
+            "name": "Chris Keller",
+            "email": "christhecoder85@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "php": "^7.4",
+        "chr15k/string": "^1.0"
+    },
+    "require-dev": {
+        "phpunit/phpunit": "^9"
+    },
+    "autoload": {
+        "psr-4": {
+            "Chr15k\\Spelling\\": "src/"
+        }
+    },
+    "autoload-dev": {
+        "psr-4": {
+            "Chr15k\\Spelling\\Test\\": "tests"
+        }
+    },
+    "config": {
+        "sort-packages": true
+    },
+    "prefer-stable": true
+}
